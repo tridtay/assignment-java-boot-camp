@@ -5,13 +5,3 @@ this project is about to create shopping_online_flow
 # Author
 this is my first project with springboot and I have fun to do but it have many complicated structure so i noticed that i have to get more knownledge to do it better. 
 thank for your instruction and onDemand.
-# Run Command
-./mvnw clean
-
-./mvnw test
-
-./mvnw clean package
-
-use java 11
-
-java -jar target/crshop-0.0.1-SNAPSHOT.jar
